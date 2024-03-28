@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>halaman Data Diri</h1>
+  <p>halo, perkenalkan aku Ida Ayu Dhanwantari, kerab dipanggil Dayu Tera</p>
+  <p>umur saya 19 tahun, saya lahir di kota klungkung</p>
+  <p>saat ini saya mengambil aktifitas bekerja sambil kuliah, saya bekerja sebagai admin di sebuah PT di denpasar
+    yaitu PT wana samudra 
+  </p>
+  <p>sayaa mahasiswa semester dua yang bernaung di prodi manajemen data dan informasi dan fakultas teknologi informasi</p>
+  <p>saya juga memiliki hobi dance</p>
+  <h1>sekian perkenalan diri dari saya, terima kasih!</h1>
+</body>
+</html>
